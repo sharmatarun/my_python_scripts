@@ -1,2 +1,2 @@
 # my_python_scripts
-This script copies all .c files in my c:/ drive to another specified location.
+This script makes a small directory tree and copies all .c files in my c:/ drive a folder in the tree.
